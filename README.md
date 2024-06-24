@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="documentation\readme\chocolate_chip_cookies_recipe_3.jpg" alt="Mitt favoritrecept Logo">
+  <img src="documentation\readme\chocolate_chip_cookies_recipe_3.jpg" alt="Mitt favoritrecept Logo" style="width: 400px; height: 400px;">
 </p>
 <h1 align="center">Välkommen till mitt favoritrecept</h1>
 
