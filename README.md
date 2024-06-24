@@ -8,15 +8,10 @@
 
 ## Mitt favoritrecept
 
-Välkommen till **Mitt favoritrecept** 
-Tortor posuere ac ut consequat. Velit laoreet id donec ultrices tincidunt arcu non sodales neque. Amet risus nullam eget felis eget nunc lobortis. Egestas maecenas pharetra convallis posuere morbi leo urna molestie.
+Välkommen till **Mina chocolate chip cookies** 
+Jag älskar dessa chocolate chip cookies – de är gudomligt goda!!!
 
 
-## Varför Mitt favoritrecept
+## Varför chocolate chip cookies
 
-Tortor posuere ac ut consequat. Velit laoreet id donec ultrices tincidunt arcu non sodales neque. Amet risus nullam eget felis eget nunc lobortis. Egestas maecenas pharetra convallis posuere morbi leo urna molestie. 
-> Vad kan du hitta på denna sida:
-
-- **Velit laoreet id donec ultrices:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- **Amet risus nullam:** Interdum consectetur libero id faucibus nisl tincidunt eget nullam. 
-- **Egestas maecenas pharetra:** Sed viverra tellus in hac habitasse platea dictumst vestibulum rhoncus. 
+Alla älskar dessa kakor, de är enkla att göra och supergoda. Det är bland annat farinsockret som ger kakorna sin segmjuka konsistens men också färg tillsammans med bikarbonat. 
