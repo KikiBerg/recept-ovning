@@ -117,3 +117,12 @@ img {
 img:hover {
     transform: scale(1.05);
 }
+
+
+/*********************************************** Tips */
+#tips p {
+    background-color: #ffe4b5;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
