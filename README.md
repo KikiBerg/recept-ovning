@@ -14,4 +14,4 @@ Jag älskar dessa chocolate chip cookies – de är gudomligt goda!!!
 
 ## Varför chocolate chip cookies
 
-Alla älskar dessa kakor, de är enkla att göra och supergoda. Det är bland annat farinsockret som ger kakorna sin segmjuka konsistens men också färg tillsammans med bikarbonat. 
+Alla älskar dessa kakor, de är enkla att göra och är supergoda. Det är bland annat farinsockret som ger kakorna sin segmjuka konsistens men också färg tillsammans med bikarbonat. 
