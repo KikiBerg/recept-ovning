@@ -69,7 +69,13 @@ h3 {
 
 ul {
     list-style-type: none;
-    padding-left: 0;
+    padding-left: 0;    
+}
+
+ul li {
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
 }
 
 ul li::before {
@@ -89,4 +95,25 @@ ol {
 
 ol li {
     margin-bottom: 0.5rem;
+}
+
+
+/*********************************************** Images */
+
+figure {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+img {
+    border-radius: 15% 5%;
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.05);
 }
